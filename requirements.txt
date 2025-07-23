@@ -1,0 +1,7 @@
+numpy>=1.22.0
+pandas>=1.4.0
+matplotlib>=3.5.0
+seaborn>=0.11.2
+scikit-learn>=1.1.0
+openpyxl>=3.0.10  # Required for reading .xlsx files
+jupyterlab>=3.5.0
