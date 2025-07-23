@@ -1,4 +1,3 @@
-````
 # 🧠 Logistic Regression Projects – Binary & Multiclass Classification
 
 This repository contains a comprehensive collection of **Logistic Regression** projects designed to demonstrate both **binary** and **multiclass classification** problems in machine learning. Real-world datasets such as **HR attrition data**, **insurance customer data**, and the popular **Iris flower dataset** are used to explore the theory, implementation, and performance of logistic regression models using Python and Scikit-learn.
@@ -22,21 +21,16 @@ This repository contains a comprehensive collection of **Logistic Regression** p
 logistic-regression/
 │
 ├── Binary Classification/
-│   ├── 7_logistic_regression.ipynb                # Logistic regression walkthrough
-│   ├── 7_logistic_regression_exercise.ipynb       # Practice problems
 │   ├── logistic_regression_exercise_Vaibhav.ipynb # Customized exercises
 │   ├── logistic_regression_practice_Vaibhav.ipynb # Implementation practice
 │   ├── HR_Analytics.ipynb                          # Applied ML on employee attrition
 │   ├── HR_comma_sep.xlsx                           # HR dataset
-│   ├── HRAnalytics.xlsx                            # Duplicate/cleaned HR dataset
 │   └── insurance_data.xlsx                         # Insurance purchase dataset
 │
 └── Multiclass Classification/
-    ├── 8_logistic_regression_multiclass.ipynb       # Logistic regression for multiclass
-    ├── Iris_Flower_Classification_Model.ipynb       # Full pipeline on Iris dataset
     ├── iris_flower_classification_model_Vaibhav.ipynb
     └── tutorial_practice_Vaibhav.ipynb              # Multiclass modeling practice
-````
+```
 
 ---
 
