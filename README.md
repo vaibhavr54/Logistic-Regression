@@ -63,8 +63,8 @@ All datasets are provided as `.xlsx` files in the respective folders.
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/logistic-regression.git
-cd logistic-regression
+git clone https://github.com/vaibhavr54/Logistic-Regression.git
+cd Logistic-Regression
 ```
 
 ### 2️⃣ Install Required Libraries
