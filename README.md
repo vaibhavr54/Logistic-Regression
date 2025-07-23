@@ -93,14 +93,6 @@ Open any `.ipynb` file from the folders and run all cells sequentially.
 
 ---
 
-## 📷 Sample Output (HR Analytics)
-
-> * Logistic Regression Accuracy: 83.45%
-> * Confusion Matrix: Balanced on both classes
-> * F1-Score: High on both positive and negative classes
-
----
-
 ## 💡 Use Cases
 
 * **HR Department**: Predict employee attrition and intervene early.
@@ -109,12 +101,10 @@ Open any `.ipynb` file from the folders and run all cells sequentially.
 
 ---
 
-## 👨‍💻 Author
+## 📬 Contact
 
-**Vaibhav Rakshe**
-B.Tech CSE (Data Science), Vishwakarma Institute of Information Technology, Pune
-📧 Email: \[[your-email@example.com](mailto:your-email@example.com)]
-🔗 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vaibhav-rakshe-7309aa2a5)
+or drop a ⭐ on [GitHub](https://github.com/vaibhavr54)!
 
 ---
 
@@ -122,7 +112,5 @@ B.Tech CSE (Data Science), Vishwakarma Institute of Information Technology, Pune
 ## ⭐️ If you find this project helpful...
 
 Consider starring the repository, sharing it with your peers, or connecting with me on LinkedIn!
-
-```
 
 ---
